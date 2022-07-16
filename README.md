@@ -1,2 +1,2 @@
-# -dev-1
+# Odev-1
 İlk Web Sayfamızı Oluşturmak
